@@ -2,11 +2,11 @@
 
 Experimental & Assignment code files for Cloud Computing class
 
-## Written in C, Executed on cygwin64
+### Written in C, Executed on cygwin64
 - pthread
 - mpi-programming
 - openmp
 
 
-## Written in JAVA, Executed with Apache Hadoop
+### Written in JAVA, Executed with Apache Hadoop
 - map-reduce
